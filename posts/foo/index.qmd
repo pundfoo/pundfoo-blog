@@ -9,6 +9,16 @@ and the foo body
 
 ## foo subsection
 
+foo bullets
+- foo
+- bar
+- baz
+
+foo list?
++ item
++ entry
++ three
+
 > foo quotes?
 
 ```{python}
