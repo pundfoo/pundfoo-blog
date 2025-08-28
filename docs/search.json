@@ -7,6 +7,20 @@
     "text": "Heierarchical Structure Formation\nthe cosmological distance ladder is quite fascinating Terry Tao himself: https://www.youtube.com/watch?v=hFMaT9oRbs4\ngalaxies seem to be distributed as strands, of clusters and superclusters, forming the cosmic web\nbut that means projected structure formation would be helpful as an effective theory? diffuse -&gt; sheets -&gt; filaments -&gt; knots\n\nit’s a reduction in the codimension of the surviving large-scale structure -chatgpt\n\nthe main equations of motion are: 1. poisson equation 2. boltzmann equation\nthe main observables are: * power spectrum of CMB, galaxies (scalars from scalars) * lensing of CMB, galaxy shapes (vectors from scalars) * kSZ, RSD, pecular velocities (scalars from vectors) * cross-correlations (vectors from vectors)\nthese seem to be consequences either from where the density is, or, from how the density is moving some are sensitive to time-evolution, some integrate over all history"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "the foo blog",
+    "section": "",
+    "text": "foo title\n\n\n\n\n\n\n\n\n\n\n\nmr. foo\n\n\n\n\n\n\n\n\n\n\n\n\nreducing dimensions of structure formation\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2025\n\n\nfoo\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
     "objectID": "posts/foo/index.html",
     "href": "posts/foo/index.html",
     "title": "foo title",
@@ -19,33 +33,5 @@
     "title": "foo title",
     "section": "",
     "text": "foo bullets - foo - bar - baz\nfoo list? + item + entry + three\n\nfoo quotes?\n\n\n# import foo\nimport this\n\nThe Zen of Python, by Tim Peters\n\nBeautiful is better than ugly.\nExplicit is better than implicit.\nSimple is better than complex.\nComplex is better than complicated.\nFlat is better than nested.\nSparse is better than dense.\nReadability counts.\nSpecial cases aren't special enough to break the rules.\nAlthough practicality beats purity.\nErrors should never pass silently.\nUnless explicitly silenced.\nIn the face of ambiguity, refuse the temptation to guess.\nThere should be one-- and preferably only one --obvious way to do it.\nAlthough that way may not be obvious at first unless you're Dutch.\nNow is better than never.\nAlthough never is often better than *right* now.\nIf the implementation is hard to explain, it's a bad idea.\nIf the implementation is easy to explain, it may be a good idea.\nNamespaces are one honking great idea -- let's do more of those!\n\n\n\nimport matplotlib.pyplot as plt\nimport numpy as np\nplt.plot(np.arange(7), np.random.random(7))\nplt.show()"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "the foo blog",
-    "section": "",
-    "text": "foo title\n\n\n\n\n\n\n\n\n\n\n\nmr. foo\n\n\n\n\n\n\n\n\n\n\n\n\nreducing dimensions of structure formation\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2025\n\n\nfoo\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 13, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 10, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
   }
 ]
