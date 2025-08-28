@@ -1,0 +1,19 @@
+---
+title: foo title
+author: mr. foo
+---
+
+# the foo heading
+
+and the foo body
+
+## foo subsection
+
+> foo quotes?
+
+```{python}
+# import foo
+import this
+
+print('this is python')
+```
