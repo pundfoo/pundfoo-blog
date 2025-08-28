@@ -27,3 +27,13 @@ import this
 
 print('this is python')
 ```
+
+```{python}
+import matplotlib.pyplot as plt
+import numpy as np
+import random
+plt.xkcd()
+plt.plot(np.range(7), random.random(7))
+plt.show()
+
+```
