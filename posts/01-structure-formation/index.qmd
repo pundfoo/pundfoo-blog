@@ -1,0 +1,33 @@
+---
+title: reducing dimensions of structure formation
+author: foo
+date: today
+---
+# Heierarchical Structure Formation
+
+the cosmological distance ladder is quite fascinating
+Terry Tao himself: <https://www.youtube.com/watch?v=hFMaT9oRbs4>
+
+galaxies seem to be distributed as strands,
+    of clusters and superclusters,
+    forming the cosmic web
+
+but that means projected structure formation would be helpful
+as an effective theory?
+diffuse -> sheets -> filaments -> knots
+
+> it's a reduction in the codimension of the surviving large-scale structure
+> -chatgpt
+
+the main equations of motion are:
+1. poisson equation
+2. boltzmann equation
+
+the main observables are:
+* power spectrum of CMB, galaxies (scalars from scalars)
+* lensing of CMB, galaxy shapes (vectors from scalars)
+* kSZ, RSD, pecular velocities (scalars from vectors)
+* cross-correlations (vectors from vectors)
+
+these seem to be consequences either from where the density is, or, from how the density is moving
+some are sensitive to time-evolution, some integrate over all history

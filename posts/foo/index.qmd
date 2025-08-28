@@ -10,14 +10,19 @@ and the foo body
 ## foo subsection
 
 foo bullets
-- foo
-- bar
-- baz
+* foo
+* bar
+* baz
 
 foo list?
-+ item
-+ entry
-+ three
+* item
+	+ entry
+	+ another
+		- three
+
+foo checklist
+- [ ] todo
+- [x] done
 
 > foo quotes?
 
@@ -32,3 +37,7 @@ import numpy as np
 plt.plot(np.arange(7), np.random.random(7))
 plt.show()
 ```
+
+we have words and their definitions?
+foo
+: a word that is a placeholder for a word by definition
