@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/foo/index.html",
+      "/posts/02-inflation/index.html",
       "/posts/01-structure-formation/index.html"
     ]
   }

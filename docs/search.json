@@ -7,11 +7,18 @@
     "text": "Heierarchical Structure Formation\nthe cosmological distance ladder is quite fascinating Terry Tao himself: https://www.youtube.com/watch?v=hFMaT9oRbs4\ngalaxies seem to be distributed as strands, of clusters and superclusters, forming the cosmic web\nbut that means projected structure formation would be helpful as an effective theory? diffuse -&gt; sheets -&gt; filaments -&gt; knots\n\nit’s a reduction in the codimension of the surviving large-scale structure -chatgpt\n\nthe main equations of motion are: 1. poisson equation 2. boltzmann equation\nthe main observables are: * power spectrum of CMB, galaxies (scalars from scalars) * lensing of CMB, galaxy shapes (vectors from scalars) * kSZ, RSD, pecular velocities (scalars from vectors) * cross-correlations (vectors from vectors)\nthese seem to be consequences either from where the density is, or, from how the density is moving some are sensitive to time-evolution, some integrate over all history"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "the foo blog",
+    "objectID": "posts/02-inflation/index.html",
+    "href": "posts/02-inflation/index.html",
+    "title": "inflation from varying dimensions",
     "section": "",
-    "text": "foo title\n\n\n\n\n\n\n\n\n\n\n\nmr. foo\n\n\n\n\n\n\n\n\n\n\n\n\nreducing dimensions of structure formation\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2025\n\n\nfoo\n\n\n\n\n\n\nNo matching items"
+    "text": "then,\n\nwe could define the usual action for 1D and call it effective\nwe could define a novel action for general d-dimensions\n\n\n\n\\(e^{ix}=\\cos x + i \\sin x\\)\nextend the sum to non-integers https://www.youtube.com/watch?v=hkn9zeRuzHs https://www.youtube.com/watch?v=2dwQUUDt5Is essentially allows defining the fractional Lagrangian \\(L(s) = \\int\\) and now the physics in fractional dimensions can be calculated"
+  },
+  {
+    "objectID": "posts/02-inflation/index.html#the-kinetic-term",
+    "href": "posts/02-inflation/index.html#the-kinetic-term",
+    "title": "inflation from varying dimensions",
+    "section": "",
+    "text": "\\(e^{ix}=\\cos x + i \\sin x\\)\nextend the sum to non-integers https://www.youtube.com/watch?v=hkn9zeRuzHs https://www.youtube.com/watch?v=2dwQUUDt5Is essentially allows defining the fractional Lagrangian \\(L(s) = \\int\\) and now the physics in fractional dimensions can be calculated"
   },
   {
     "objectID": "about.html",
@@ -19,6 +26,13 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "the foo blog",
+    "section": "",
+    "text": "foo title\n\n\n\n\n\n\n\n\nmr. foo\n\n\n\n\n\n\n\n\n\n\n\n\ninflation from varying dimensions\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nfoo\n\n\n\n\n\n\n\n\n\n\n\n\nreducing dimensions of structure formation\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nfoo\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/foo/index.html",

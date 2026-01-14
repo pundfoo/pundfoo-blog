@@ -1,0 +1,24 @@
+---
+title: inflation from varying dimensions
+author: foo
+date: today
+---
+
+# What if the Universe was 1D initially?
+
+then, 
+
+- we could define the usual action for 1D and call it effective
+- we could define a novel action for general d-dimensions
+
+## the kinetic term
+
+$e^{ix}=\cos x + i \sin x$
+
+extend the sum to non-integers
+https://www.youtube.com/watch?v=hkn9zeRuzHs
+https://www.youtube.com/watch?v=2dwQUUDt5Is
+essentially allows defining the fractional Lagrangian
+$L(s) = \int$
+and now the physics in fractional dimensions can be calculated
+
